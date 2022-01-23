@@ -1,0 +1,52 @@
+2021-11-14 01:20:34,116 INFO spring.logging.LoggingApplication [main] Starting LoggingApplication using Java 17.0.1 on kshitizJ with PID 36593 (/home/kshitiz/Kshitiz/java/logging/target/classes started by kshitiz in /home/kshitiz/Kshitiz/java/logging)
+2021-11-14 01:20:34,118 DEBUG spring.logging.LoggingApplication [main] Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-14 01:20:34,118 INFO spring.logging.LoggingApplication [main] No active profile set, falling back to default profiles: default
+2021-11-14 01:20:35,137 INFO spring.logging.LoggingApplication [main] Started LoggingApplication in 1.256 seconds (JVM running for 1.547)
+2021-11-14 01:20:54,219 INFO spring.logging.LoggingApplication [main] Starting LoggingApplication using Java 17.0.1 on kshitizJ with PID 36660 (/home/kshitiz/Kshitiz/java/logging/target/classes started by kshitiz in /home/kshitiz/Kshitiz/java/logging)
+2021-11-14 01:20:54,220 DEBUG spring.logging.LoggingApplication [main] Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-14 01:20:54,221 INFO spring.logging.LoggingApplication [main] No active profile set, falling back to default profiles: default
+2021-11-14 01:20:55,189 INFO spring.logging.LoggingApplication [main] Started LoggingApplication in 1.162 seconds (JVM running for 1.495)
+2021-11-14 01:21:44,339 TRACE spring.logging.HomeController [http-nio-8080-exec-1] msg
+2021-11-14 01:21:44,442 TRACE spring.logging.HomeController [http-nio-8080-exec-2] msg
+2021-11-14 01:21:44,566 TRACE spring.logging.HomeController [http-nio-8080-exec-3] msg
+2021-11-14 01:21:44,704 TRACE spring.logging.HomeController [http-nio-8080-exec-4] msg
+2021-11-14 01:21:44,841 TRACE spring.logging.HomeController [http-nio-8080-exec-5] msg
+2021-11-14 01:21:44,996 TRACE spring.logging.HomeController [http-nio-8080-exec-6] msg
+2021-11-14 01:21:45,110 TRACE spring.logging.HomeController [http-nio-8080-exec-7] msg
+2021-11-14 01:21:45,250 TRACE spring.logging.HomeController [http-nio-8080-exec-8] msg
+2021-11-14 01:21:45,425 TRACE spring.logging.HomeController [http-nio-8080-exec-9] msg
+2021-11-14 01:21:45,571 TRACE spring.logging.HomeController [http-nio-8080-exec-10] msg
+2021-11-14 01:21:45,709 TRACE spring.logging.HomeController [http-nio-8080-exec-1] msg
+2021-11-14 01:21:45,834 TRACE spring.logging.HomeController [http-nio-8080-exec-2] msg
+2021-11-14 01:21:45,971 TRACE spring.logging.HomeController [http-nio-8080-exec-3] msg
+2021-11-14 01:21:46,109 TRACE spring.logging.HomeController [http-nio-8080-exec-4] msg
+2021-11-14 01:21:46,254 TRACE spring.logging.HomeController [http-nio-8080-exec-5] msg
+2021-11-14 01:21:46,394 TRACE spring.logging.HomeController [http-nio-8080-exec-6] msg
+2021-11-14 01:21:46,534 TRACE spring.logging.HomeController [http-nio-8080-exec-7] msg
+2021-11-14 01:21:46,948 TRACE spring.logging.HomeController [http-nio-8080-exec-8] msg
+2021-11-14 01:21:47,277 TRACE spring.logging.HomeController [http-nio-8080-exec-9] msg
+2021-11-14 01:21:47,423 TRACE spring.logging.HomeController [http-nio-8080-exec-10] msg
+2021-11-14 01:21:47,570 TRACE spring.logging.HomeController [http-nio-8080-exec-1] msg
+2021-11-14 01:21:47,718 TRACE spring.logging.HomeController [http-nio-8080-exec-2] msg
+2021-11-14 01:21:47,854 TRACE spring.logging.HomeController [http-nio-8080-exec-3] msg
+2021-11-14 01:21:48,017 TRACE spring.logging.HomeController [http-nio-8080-exec-4] msg
+2021-11-14 01:21:48,177 TRACE spring.logging.HomeController [http-nio-8080-exec-5] msg
+2021-11-14 01:21:48,332 TRACE spring.logging.HomeController [http-nio-8080-exec-6] msg
+2021-11-14 01:21:48,492 TRACE spring.logging.HomeController [http-nio-8080-exec-7] msg
+2021-11-14 01:21:48,654 TRACE spring.logging.HomeController [http-nio-8080-exec-8] msg
+2021-11-14 01:21:48,815 TRACE spring.logging.HomeController [http-nio-8080-exec-9] msg
+2021-11-14 01:21:48,986 TRACE spring.logging.HomeController [http-nio-8080-exec-10] msg
+2021-11-14 01:21:49,154 TRACE spring.logging.HomeController [http-nio-8080-exec-1] msg
+2021-11-14 01:21:49,301 TRACE spring.logging.HomeController [http-nio-8080-exec-2] msg
+2021-11-14 01:21:49,453 TRACE spring.logging.HomeController [http-nio-8080-exec-3] msg
+2021-11-14 01:21:49,591 TRACE spring.logging.HomeController [http-nio-8080-exec-4] msg
+2021-11-14 01:21:49,760 TRACE spring.logging.HomeController [http-nio-8080-exec-5] msg
+2021-11-14 01:21:49,875 TRACE spring.logging.HomeController [http-nio-8080-exec-6] msg
+2021-11-14 01:21:50,063 TRACE spring.logging.HomeController [http-nio-8080-exec-7] msg
+2021-11-14 01:22:28,393 TRACE spring.logging.HomeController [http-nio-8080-exec-8] msg
+2021-11-14 01:22:28,532 TRACE spring.logging.HomeController [http-nio-8080-exec-9] msg
+2021-11-14 01:22:28,639 TRACE spring.logging.HomeController [http-nio-8080-exec-10] msg
+2021-11-14 01:22:28,754 TRACE spring.logging.HomeController [http-nio-8080-exec-1] msg
+2021-11-14 01:22:28,903 TRACE spring.logging.HomeController [http-nio-8080-exec-2] msg
+2021-11-14 01:22:29,032 TRACE spring.logging.HomeController [http-nio-8080-exec-3] msg
+2021-11-14 01:22:29,217 TRACE spring.logging.HomeController [http-nio-8080-exec-4] msg
