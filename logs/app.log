@@ -1,19 +1,4 @@
-2021-11-14 01:22:29,454 TRACE spring.logging.HomeController [http-nio-8080-exec-5] msg
-2021-11-14 01:22:29,607 TRACE spring.logging.HomeController [http-nio-8080-exec-6] msg
-2021-11-14 01:22:29,754 TRACE spring.logging.HomeController [http-nio-8080-exec-7] msg
-2021-11-14 01:22:29,891 TRACE spring.logging.HomeController [http-nio-8080-exec-8] msg
-2021-11-14 01:22:30,045 TRACE spring.logging.HomeController [http-nio-8080-exec-9] msg
-2021-11-14 01:22:30,191 TRACE spring.logging.HomeController [http-nio-8080-exec-10] msg
-2021-11-14 01:22:30,339 TRACE spring.logging.HomeController [http-nio-8080-exec-1] msg
-2021-11-14 01:22:30,491 TRACE spring.logging.HomeController [http-nio-8080-exec-2] msg
-2021-11-14 01:22:30,661 TRACE spring.logging.HomeController [http-nio-8080-exec-3] msg
-2021-11-14 01:22:30,822 TRACE spring.logging.HomeController [http-nio-8080-exec-4] msg
-2021-11-14 01:22:30,990 TRACE spring.logging.HomeController [http-nio-8080-exec-5] msg
-2021-11-14 01:22:31,153 TRACE spring.logging.HomeController [http-nio-8080-exec-6] msg
-2021-11-14 01:22:31,306 TRACE spring.logging.HomeController [http-nio-8080-exec-7] msg
-2021-11-14 01:22:31,485 TRACE spring.logging.HomeController [http-nio-8080-exec-8] msg
-2021-11-14 01:22:31,623 TRACE spring.logging.HomeController [http-nio-8080-exec-9] msg
-2021-11-14 01:22:31,744 TRACE spring.logging.HomeController [http-nio-8080-exec-10] msg
-2021-11-14 01:22:31,844 TRACE spring.logging.HomeController [http-nio-8080-exec-1] msg
-2021-11-14 01:22:31,986 TRACE spring.logging.HomeController [http-nio-8080-exec-2] msg
-2021-11-14 01:22:32,172 TRACE spring.logging.HomeController [http-nio-8080-exec-3] msg
+2022-10-01 19:59:26,832 INFO spring.logging.LoggingApplication [main] Starting LoggingApplication using Java 17.0.4.1 on kshitizJ with PID 35581 (/home/kshitiz/Kshitiz/java/Springboot tutorial/Springboot Logging/logging/target/classes started by kshitiz in /home/kshitiz/Kshitiz/java/Springboot tutorial/Springboot Logging/logging)
+2022-10-01 19:59:26,834 DEBUG spring.logging.LoggingApplication [main] Running with Spring Boot v2.5.6, Spring v5.3.12
+2022-10-01 19:59:26,835 INFO spring.logging.LoggingApplication [main] No active profile set, falling back to default profiles: default
+2022-10-01 19:59:27,873 INFO spring.logging.LoggingApplication [main] Started LoggingApplication in 1.259 seconds (JVM running for 1.751)

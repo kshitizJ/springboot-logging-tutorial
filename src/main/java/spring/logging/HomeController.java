@@ -33,7 +33,8 @@ public class HomeController {
          */
 
         // logger.error("FATAL Error");
-        logger.trace("msg");
+        // logger.trace("msg");
+        logger.info("msg");
         return "index";
     }
 
